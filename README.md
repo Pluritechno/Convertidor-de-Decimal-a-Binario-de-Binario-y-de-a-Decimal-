@@ -4,7 +4,9 @@ Software a pequeña escala creado en el IDE NetBeans usando el lenguaje de progr
 # Como Usar
 1. Descargue el proyecto en version comprimida.
 2. Descargue e instale cualquier IDE que soporte JAVA
-3. Abra y ejecute el proyecto
+3. Abra el proyecto
+4. Instale la librería adjuntada en el proyecto de ser necesario
+5. Ejecute el proyecto
 
 # Autores:
 José Mauricio Guerrero Estrada,
